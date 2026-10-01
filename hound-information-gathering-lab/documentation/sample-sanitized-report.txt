@@ -1,0 +1,32 @@
+# Sanitized Sample Report
+
+This file contains synthetic/redacted values for public GitHub documentation.
+
+## Device Information
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:XXX) Gecko/20100101 Firefox/XXX
+Platform: Linux x86_64
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Firefox
+Browser CodeName: Mozilla
+RAM: [NOT REPORTED]
+CPU Cores: [LAB VALUE]
+Screen Width: [LAB VALUE]
+Screen Height: [LAB VALUE]
+Local Time: [REDACTED]
+RefURL: [REDACTED]
+OS CPU: Linux x86_64
+
+## Target IP Detail
+
+IP: [REDACTED]
+
+## GPS Lat Long Information
+
+Latitude: [REDACTED]
+Longitude: [REDACTED]
+
+## Publication note
+
+Never commit real personal coordinates, tokens, cookies, credentials, or other sensitive collected values to a public repository.
